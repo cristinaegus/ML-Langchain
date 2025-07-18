@@ -1,0 +1,38 @@
+# Entorno virtual de Python
+.venv/
+venv/
+ENV/
+.venv Langchain
+
+# Archivos de configuración de Jupyter y cachés
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de logs
+*.log
+
+# Archivos de salida
+*.out
+*.tmp
+
+# Archivos de bases de datos
+*.sqlite3
+*.db
+
+# Otros archivos que no deben subirse
+*.bak
+*.swp
