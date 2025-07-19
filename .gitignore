@@ -4,6 +4,9 @@ venv/
 ENV/
 .venv Langchain
 
+# Entorno virtual personalizado
+chatbot/
+
 # Archivos de configuración de Jupyter y cachés
 .ipynb_checkpoints/
 __pycache__/
